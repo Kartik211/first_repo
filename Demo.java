@@ -1,6 +1,6 @@
 class Demo{
 	public static void main(String[] args){
-		System.out.println("This is First Code");
+		System.out.println("This is Second Code");
 	}
 		
 }
